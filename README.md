@@ -1,6 +1,6 @@
 # Crack Detector: AI-Powered Concrete Crack Detection System
 
-A deep learning-based web application that detects cracks in concrete structures using transfer learning with ResNet18. This portfolio project demonstrates end-to-end machine learning engineering, from problem formulation to deployment.
+A deep learning-based web application that detects cracks in concrete structures using transfer learning with ResNet18. This project demonstrates end-to-end machine learning engineering, from problem formulation to deployment.
 
 ## Table of Contents
 
