@@ -10,7 +10,7 @@ from torchvision import transforms
 MAX_CONTENT_LENGTH = 2 * 1000 * 1000
 
 # Load the pre-trained model
-model = torch.load("model.pt")
+model = torch.load(os.path.join(os.path.dirname(__file__), "model.pt"))
 model.eval()
 
 # Define the input transformation
